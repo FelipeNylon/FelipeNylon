@@ -14,4 +14,7 @@ About me
 Social media 📭
 
 
-https://www.instagram.com/felipe_marlon.java/         
+https://www.instagram.com/felipe_marlon.java/   
+https://www.facebook.com/felipe.marlon.92351/
+https://www.linkedin.com/in/felipe-marlon-b791b3158
+https://github.com/FelipeNylon
