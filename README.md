@@ -1,6 +1,6 @@
 Hi, I'm Felipe Marlon 🐔
-Back-End Dev | Node.js + postgres 🤖
-Django ❤️ PHP
+Machine/Deep learning and master kaggle competition| Sql + Python 🤖
+Pytorch ❤️ Keras/Tensorflow
 
 👨‍💻
 
@@ -14,6 +14,7 @@ About me
 
 Social media 📭
 
+https://www.kaggle.com/felipemarlon
 
 https://www.instagram.com/marlon.py/  
 
